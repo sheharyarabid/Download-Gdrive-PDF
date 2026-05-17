@@ -15,6 +15,9 @@ Perfect for:
 
 ---
 
+# NOTE!
+ * Make sure that all pages of your pdf are loaded.
+
 ## Features
 
 * Automatically detects Google Drive blob images
